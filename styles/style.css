@@ -11,8 +11,17 @@ body {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
 }
 
-button {
+#buttons {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+button { color: cornflowerblue;
+	background-color: darkgoldenrod;
 }
 
 /*  Navigation */
